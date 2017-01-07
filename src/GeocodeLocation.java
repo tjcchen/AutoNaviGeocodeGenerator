@@ -11,12 +11,12 @@ import javax.annotation.Nonnull;
  */
 public class GeocodeLocation
 {
-    private int    m_locId;
-    private String m_locName;
-    private String m_cityName;
-    private String m_addressName;
-    private float  m_latitude;
-    private float  m_longitude;
+    private final int    m_locId;
+    private final String m_locName;
+    private final String m_cityName;
+    private final String m_addressName;
+    private final float  m_latitude;
+    private final float  m_longitude;
 
     private GeocodeLocation(@Nonnull final Builder builder)
     {
