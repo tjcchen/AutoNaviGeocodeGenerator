@@ -1,5 +1,3 @@
 <h2>AutoNavi Geocode Generator</h2>
 
-<p>
-A geo codes generator with AutoNavi geocoding API for China domestic locations.
-</p>
+<p>A geo codes generator with AutoNavi geocoding API.</p>
