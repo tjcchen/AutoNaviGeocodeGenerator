@@ -8,3 +8,7 @@
   AutoNavi documentation
 </p>
 
+<h2>License</h2>
+<p>
+  BSD 2-Clause License
+</p>
