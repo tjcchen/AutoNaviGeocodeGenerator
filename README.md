@@ -10,5 +10,5 @@
 
 <h2>License</h2>
 <p>
-  BSD 2-Clause License
+  This project is licensed under the terms of the BSD 2-Clause License
 </p>
