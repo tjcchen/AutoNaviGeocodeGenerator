@@ -1,5 +1,5 @@
 <h2>AutoNavi Geocode Generator</h2>
-<p>A Geo codes generator with AutoNavi geocoding API</p>
+<p>A GEO codes generator with AutoNavi geocoding API</p>
 
 <h2>Documentation</h2>
 <p>
