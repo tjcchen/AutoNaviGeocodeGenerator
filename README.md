@@ -12,6 +12,13 @@
   Email: <a href="mailto:chenyangpoppin@gmail.com">chenyangpoppin[AT]gmail.com</a>
 </p>
 
+<h2>Useful Links</h2>
+<p>
+  Coordinates picker: https://lbs.amap.com/console/show/picker
+  <br/>
+  Developer documentation: https://lbs.amap.com/
+</p>
+
 <h2>License</h2>
 <p>
   This project is licensed under the terms of the BSD 2-Clause License
