@@ -3,7 +3,7 @@
 
 <h2>Documentation</h2>
 <p>
-  Geocode converter: converts real-world addresses to coordinates( longitude and latitude ), such as 116.481488,39.990464, please also refer to 
+  Geocode converter: converts real-world addresses to map coordinates( longitude and latitude ), such as 116.481488,39.990464, please also refer to 
   <a target="_blank" href="https://lbs.amap.com/api/webservice/guide/api/georegeo">AutoNavi documentation</a>.
 </p>
 
