@@ -1,14 +1,4 @@
-package com.daodao.coordinates;
-
-import com.TripResearch.db.DBLocationElement;
-import com.TripResearch.util.BaseStringUtils;
-import com.TripResearch.util.BaseUtils;
-import com.TripResearch.util.LoggerHelper;
-import com.TripResearch.util.Logging;
-import com.TripResearch.util.StringUtils;
-import com.google.common.base.Preconditions;
-import org.apache.commons.csv.CSVFormat;
-import org.apache.commons.csv.CSVPrinter;
+package com.tjcchen.coordinates;
 
 import javax.annotation.CheckForNull;
 import javax.annotation.Nonnull;

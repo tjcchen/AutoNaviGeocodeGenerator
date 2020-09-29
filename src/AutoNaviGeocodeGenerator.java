@@ -1,11 +1,4 @@
-package com.daodao.coordinates;
-
-import com.TripResearch.db.DBLocationElement;
-import com.TripResearch.util.BaseUtils;
-import com.TripResearch.util.Utils;
-import com.ta.google.gson.JsonArray;
-import com.ta.google.gson.JsonObject;
-import com.ta.google.gson.JsonParser;
+package com.tjcchen.coordinates;
 
 import javax.annotation.CheckForNull;
 import javax.annotation.Nonnull;
@@ -22,7 +15,7 @@ import com.google.common.base.Optional;
 /**
  * A domestic geocodes generator of AutoNavi map
  * <p>
- * Usage: please refer to src/Applications/com/daodao/coordinates/CoordinatesEngine.java
+ * Usage: please refer to src/Applications/com/tjcchen/coordinates/CoordinatesEngine.java
  *
  * <ul class="references">
  *   <li class="documentation">Guidance: http://lbs.amap.com/api/webservice/guide/api/georegeo/</li>

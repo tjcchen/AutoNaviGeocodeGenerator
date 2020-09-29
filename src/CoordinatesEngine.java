@@ -1,12 +1,4 @@
-package com.daodao.coordinates;
-
-import com.TripResearch.db.DBLocationElement;
-import com.TripResearch.db.DBLocationStore;
-import com.TripResearch.db.LocationCache;
-import com.TripResearch.util.BaseUtils;
-import com.google.common.collect.Sets;
-import org.kohsuke.args4j.CmdLineParser;
-import org.kohsuke.args4j.Option;
+package com.tjcchen.coordinates;
 
 import java.util.List;
 import java.util.Objects;
@@ -16,7 +8,7 @@ import java.util.stream.Collectors;
 /**
  * A coordinates generator engine for POIs
  * <p>
- * Usage: javatr.sh com.daodao.coordinates.CoordinatesEngine -i xxx1.csv -o xxx2.csv
+ * Usage: javatr.sh com.tjcchen.coordinates.CoordinatesEngine -i xxx1.csv -o xxx2.csv
  *
  * <ul class="description">
  *   <li class="input-file" data-alias="i">One column of location ids list from input file</li>
