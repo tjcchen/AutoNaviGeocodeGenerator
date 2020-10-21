@@ -19,6 +19,7 @@ import java.util.stream.Collectors;
  * which transforms the DB location elements to custom geocode locations
  *
  * @author yangchen
+ * @email tjcchen.engineer@gmail.com
  * @since 09/28/2016
  */
 public abstract class GeocodeGenerator

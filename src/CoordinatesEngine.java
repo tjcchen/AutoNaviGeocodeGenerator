@@ -16,6 +16,7 @@ import java.util.stream.Collectors;
  * </ul>
  *
  * @author yangchen
+ * @email tjcchen.engineer@gmail.com
  * @since 09/08/2016
  */
 public class CoordinatesEngine

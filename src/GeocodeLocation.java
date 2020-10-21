@@ -7,6 +7,7 @@ import javax.annotation.Nonnull;
  * Model class for coordinates output file column fields
  *
  * @author yangchen
+ * @email tjcchen.engineer@gmail.com
  * @since 09/08/2016
  */
 public class GeocodeLocation

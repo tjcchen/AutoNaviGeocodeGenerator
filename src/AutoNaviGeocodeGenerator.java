@@ -23,6 +23,7 @@ import com.google.common.base.Optional;
  * </ul>
  *
  * @author yangchen
+ * @email tjcchen.engineer@gmail.com
  * @since 09/08/2016
  */
 public class AutoNaviGeocodeGenerator extends GeocodeGenerator
