@@ -29,7 +29,7 @@ import com.google.common.base.Optional;
 public class AutoNaviGeocodeGenerator extends GeocodeGenerator
 {
     private static final String S_GEOCODING_API_ROOT = "http://restapi.amap.com/v3/geocode/geo";
-    private static final String S_REST_API_KEY       = "8325164e247e15eea68b59e89200988b";
+    private static final String S_REST_API_KEY       = "21f75106a96eee5980c982f91fe468b9";
 
     /**
      * Process DB location elements to custom geocode locations
