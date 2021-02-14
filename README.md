@@ -1,25 +1,15 @@
-<h2>AutoNavi Geocode Generator</h2>
-<p>A GEO codes generator with AutoNavi geocoding API.</p>
+## AutoNavi Geocode Generator
+A GEO codes generator with AutoNavi geocoding API.
 
-<h2>Documentation</h2>
-<p>
-  Geocode converter: converts real-world addresses to map coordinates( longitude and latitude ), such as 116.481488,39.990464, please also refer to 
-  <a target="_blank" href="https://lbs.amap.com/api/webservice/guide/api/georegeo">AutoNavi documentation</a>.
-</p>
+## Documentation
+Geocode converter: converts real-world addresses to map coordinates( longitude and latitude ), such as 116.481488,39.990464, please also refer to [AutoNavi documentation](https://lbs.amap.com/api/webservice/guide/api/georegeo).
 
-<h2>Contact</h2>
-<p>
-  Email: <a href="mailto:tjcchen.engineer@gmail.com">tjcchen.engineer[AT]gmail.com</a>
-</p>
+## Contact
+Email: tjcchen.engineer[AT]gmail.com
 
-<h2>Useful Links</h2>
-<p>
-  Coordinates picker: https://lbs.amap.com/console/show/picker
-  <br/>
-  Developer documentation: https://lbs.amap.com/
-</p>
+## Useful Links
+- Coordinates picker: https://lbs.amap.com/console/show/picker
+- Developer documentation: https://lbs.amap.com/
 
-<h2>License</h2>
-<p>
-  This project is licensed under the terms of the BSD 2-Clause License.
-</p>
+## License
+This project is licensed under the terms of the BSD 2-Clause License.
